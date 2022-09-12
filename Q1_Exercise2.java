@@ -15,11 +15,23 @@ public class Q1_Exercise2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application l
-        Scanner sc = new Scanner(System.in);
-        System.out.print("Welcome to Higher or Lower what would you like to do?: ");
-        String gameStart = sc.nextLine();
-        
+        // 
+        String answer; 
+        while () {
+        //what to put inside parenthesis?
+          
+          System.out.println("Welcome to Higher or Lower! Would you like to play a game? ");
+          answer = input.nextLine();
+          //something that ties this and loop below together? or something else
+           for (){
+            System.out.println();
+        }
+    System.out.println("");
+    }
+        }
+        System.out.println("Thank you for playing");
+    }
+       
     }
     
 }
